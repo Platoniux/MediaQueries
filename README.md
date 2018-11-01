@@ -1,5 +1,5 @@
 # MediaQueries
-Test of my MediaQueries for MateAcadamy
+Test of my MediaQueries for MateAcademy
 
 **GitHub Pages** you can find [there](https://platoniux.github.io/MediaQueries/ "GitHub Pages for this repo").
 
