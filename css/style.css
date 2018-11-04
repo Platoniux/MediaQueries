@@ -22,7 +22,7 @@ h2,
 }
 
 /*From Tablet Portrait to Tablet Landscape*/
-@media (min-width: 321px) and (max-width: 768px) {
+@media (min-width: 769px) and (max-width: 960px) {
 	
 	.colored.fourthone:nth-child(1),
 	.colored.fourthtwo:nth-child(2) {
